@@ -1,0 +1,15 @@
+{
+  "name": "tea-manager",
+  "version": "1.0.0",
+  "description": "a simple manager for different teas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "furqan khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
